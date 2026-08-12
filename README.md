@@ -22,7 +22,7 @@
 
 - 📧 Email: [nancykargwal17112001@gmail.com](mailto:nancykargwal17112001@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/nancy-kargwal-2805a2237)  
-- 🌐 [Portfolio (optional if available)](https://portfolio-flax-beta-93.vercel.app/)  
+  
 
 ---
 
